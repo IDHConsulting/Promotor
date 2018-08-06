@@ -1,6 +1,6 @@
-# electV
+# Promotor
 
-Create and manage electronic vouchers and coupons
+Promotions Engine for any POS system - create complex promotion types , monitor promotions and report
 
 ## Getting Started
 
